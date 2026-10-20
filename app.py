@@ -6,7 +6,7 @@ from google.genai import types
 
 
 # Modelo estable de Gemini documentado actualmente por Google.
-MODEL = "gemini-3.8-flash"
+MODEL = "gemini-3.5-flash"
 MAX_QUESTIONS = 3
 APPROVAL_SCORE = 7
 
